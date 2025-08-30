@@ -1,0 +1,14 @@
+
+How it works:
+The path /home/sat24/Documents/project/FIle_Encrypter/test will be passed as argv[1] to your program.
+
+cwd ensures relative paths inside your program are resolved from the project root.
+
+MIMode: "gdb" makes VS Code use GDB for debugging on Linux.
+
+If you want, I can also modify the Makefile and launch.json together so both encrypt_decrypt and cryption use this test folder automatically when debugging. Do you want me to do that?
+
+
+
+You said:
+Evaluation of expr
